@@ -27,6 +27,12 @@ curl -sSL https://http.krfoss.org/pack/prx2.sh | bash
 curl -sSL https://http.krfoss.org/pack/cm.sh | bash
 ```
 
+### Kali Linux 한국어 문서를 제공합니다!
+
+Kali Linux의 문서는 기본적으로 영어로만 제공됩니다. ROKFOSS 프로젝트에서는 한국 칼리 유저들을 위해 Kali Linux 문서 한글화를 진행하고 있습니다. 더 이상 번역을 위해 구글 번역기나 파파고를 찾아가서 복붙할 필요가 없습니다!
+
+문서 한글화에 기여하고자 하는 경우 [여기](https://github.com/KRFOSS/kali-docs)를 방문해주세요!
+
 ## 🤝 기여 방법
 
 이 프로젝트에 기여하는 방법은 2가지가 있습니다. 
