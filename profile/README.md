@@ -19,7 +19,7 @@ ROKFOSS PROJECT의 깃허브에 오신 걸 환영합니다.
 
 [ROKFOSS 뉴스룸](https://news.krfoss.org)
 
-[ROKFOSS 달콤 프로젝트](https://dalcom.krfos.org)
+[ROKFOSS 달콤 프로젝트](https://dalcom.krfoss.org)
 
 [ROKFOSS 버그 리포트/차단 해제 요청](https://report.krfoss.org)
 
