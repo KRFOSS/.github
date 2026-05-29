@@ -11,6 +11,8 @@ ROKFOSS PROJECT의 깃허브에 오신 걸 환영합니다.
 ## 빠른 링크 안내
 [ROKFOSS 분산미러](https://http.krfoss.org)
 
+[ROKFOSS Pastebox(로그 공유 서비스)](https://paste.krfoss.org)
+
 [ROKFOSS Docs](https://docs.krfoss.org)
 
 [ROKFOSS 칼리리눅스 한국어 문서](https://kali.krfoss.org)
